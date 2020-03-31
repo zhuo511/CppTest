@@ -1,10 +1,8 @@
 /*!
  * -------------------------------------------
- * Copyright (c) 2019, Horizon Robotics, Inc.
- * All rights reserved.
  * \File     test.cpp
  * \Author   zhuo.wang
- * \Mail     zhuo.wang@horizon.ai
+ * \Mail
  * \Version  0.0.0.1
  * \Date     2019/12/29
  * \Brief    implement of test.cpp
